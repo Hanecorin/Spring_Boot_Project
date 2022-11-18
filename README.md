@@ -3,7 +3,7 @@
 - <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
 
 
-- Spring Boot 를 이용하여 간단한 웹 페이지 만들기
+- Spring Boot 를 이용하여 웹 페이지 만들기
 - 재능기부조회 CRUD 페이지
 - REST Controller를 이용하여 비동기화면 구현
 - CSS 도전?
